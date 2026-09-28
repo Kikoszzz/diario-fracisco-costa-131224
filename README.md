@@ -7,3 +7,5 @@
 24/09/26: Reunião e continuação da pesquisa  
 25/09/26: Nada feito da dissertação  
 26/09/26: Continuação do estado da arte  
+27/09/26: Nada feito da dissertação  
+28/09/26: Continuação do estado da arte  
