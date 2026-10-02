@@ -9,7 +9,7 @@
 26/09/26: Continuação do estado da arte  
 27/09/26: Nada feito da dissertação  
 28/09/26: Continuação do estado da arte  
-29/09/26: Participação numa atividade e continuação do estado da arte
+29/09/26: Participação numa atividade e continuação do estado da arte  
 30/09/26: Continuação do estado da arte
 
 ### Outubro
