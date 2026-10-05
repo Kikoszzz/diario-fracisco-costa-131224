@@ -15,3 +15,6 @@
 ### Outubro
 01/10/26: Nada feito da dissertação  
 02/10/26: Setup do Unity e um pouco do estudo das capacidades do AR Foundation  
+03/10/26: Nada feito da dissertação  
+04/10/26: Mais testes com Unity e AR Foundation  
+05/10/26: Continuação do estado da arte  
