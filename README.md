@@ -19,3 +19,9 @@
 04/10/26: Mais testes com Unity e AR Foundation  
 05/10/26: Continuação do estado da arte  
 06/10/26: Avanços no Unity  
+07/10/26: Avanços no Unity  
+08/10/26: Continuação do estado da arte  
+09/10/26: Nada feito da dissertação  
+10/10/26: Nada feito da dissertação  
+11/10/26: Nada feito da dissertação  
+12/10/26: Testes no unity  
